@@ -1,4 +1,4 @@
-### My Blog：[zhangmiao.cc](https://zhangmiao.cc/2018/12/24/Android%E5%9F%BA%E7%A1%80%E6%8E%A7%E4%BB%B6ViewFlipper%E7%9A%84%E4%BD%BF%E7%94%A8%EF%BC%8C%E5%9E%82%E7%9B%B4%E6%BB%9A%E5%8A%A8%E5%B9%BF%E5%91%8A%E6%9D%A1/)
+### My Blog：[zhangmiao.cc](https://zhangmiao.cc/posts/ced0f833.html)
 # ViewFlipperDemo
 ViewFlipper的使用，仿淘宝头条垂直滚动广告条。
 
